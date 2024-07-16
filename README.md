@@ -13,12 +13,12 @@ Seaborn (for data visualization)
 4.Data Cleaning and Preparation
 5.Data Visualization and Analysis
 # Contents:
-Importing the Libraries
-Importing the Dataset
-Data Understanding
-Data Cleaning
-Handling missing values
-Generating separate datasets according to the column categories for ease of access
-Generating visualizations for each dataset
-Providing insights from each visualization
-Summary
+1.Importing the Libraries
+2.Importing the Dataset
+3.Data Understanding
+4.Data Cleaning
+5.Handling missing values
+6.Generating separate datasets according to the column categories for ease of access
+7.Generating visualizations for each dataset
+8.Providing insights from each visualization
+9.Summary
