@@ -2,18 +2,17 @@
 To Create a bar chart to visualize the distribution of a categorial or continuous variable, such as the distribution of ages or genders in a population 
 Objective:
 To visualize and analyze the data distribution.
-
-Libraries Used:
+# Libraries Used:
 Pandas (for data manipulation)
 Matplotlib (for data visualization)
 Seaborn (for data visualization)
-Steps Involved:
+# Steps Involved:
 1.Importing the Libraries
 2.Importing the Dataset
 3.Data Understanding
 4.Data Cleaning and Preparation
 5.Data Visualization and Analysis
-Contents:
+# Contents:
 Importing the Libraries
 Importing the Dataset
 Data Understanding
